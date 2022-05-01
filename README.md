@@ -1,5 +1,5 @@
 # httpserver
-python3 http.server upload file. LAN file share.
+python3 http.server upload file. LAN file share. Tested in py37.
 # sample
 serv.py 80 -d e:/
 # Based 
